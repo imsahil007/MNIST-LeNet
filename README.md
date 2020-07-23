@@ -13,7 +13,7 @@ containing a value 0 - 255 with its grayscale value.
 The digits have been size-normalized and centered in a fixed-size image.
 # LeNet:
 LeNet's design:
-[](https://github.com/imsahil007/MNIST-LeNet/raw/master/res/LeNet5.png)
+[](https://raw.githubusercontent.com/imsahil007/MNIST-LeNet/master/res/LeNet5.png?token=AISMIWFTOS7AOKWJ45T4IT27DEXJE)
 
 ## Tweaks that I made:
 
