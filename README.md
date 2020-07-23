@@ -11,6 +11,7 @@ containing a value 0 - 255 with its grayscale value.
 ![](https://github.com/imsahil007/MNIST-LeNet/blob/master/res/data.png)
 
 The digits have been size-normalized and centered in a fixed-size image.
+[Kaggle Link](https://www.kaggle.com/imsahil007/mnsit-lenet/notebook)
 # LeNet:
 LeNet's design:
 ![](https://github.com/imsahil007/MNIST-LeNet/blob/master/res/LeNet5.png)
