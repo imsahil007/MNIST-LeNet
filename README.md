@@ -8,7 +8,7 @@ The MNIST database is available at https://www.kaggle.com/c/digit-recognizer/dat
 The MNIST database is a dataset of handwritten digits.  Each image is represented by 28x28 pixels, each
 containing a value 0 - 255 with its grayscale value.
 
-![](hhttps://raw.githubusercontent.com/imsahil007/MNIST-LeNet/master/res/data.png?token=AISMIWFVZWD2XZFFEBCILI27DEXB2)
+![](https://raw.githubusercontent.com/imsahil007/MNIST-LeNet/master/res/data.png?token=AISMIWFVZWD2XZFFEBCILI27DEXB2)
 
 The digits have been size-normalized and centered in a fixed-size image.
 # LeNet:
