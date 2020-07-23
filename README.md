@@ -25,7 +25,7 @@ LeNet's design:
 * RMSProp used in place of Adam optimizer
 
 # Use saved model:
-Download [this](https://github.com/imsahil007/MNIST-LeNet/raw/master/res/model_data.zip)
+Download [this](https://github.com/imsahil007/MNIST-LeNet/raw/master/res/model_data.zip)  
 Extract model_data.zip
 ```
 from tensorflow import keras
